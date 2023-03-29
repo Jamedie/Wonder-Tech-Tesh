@@ -1,6 +1,6 @@
 # Vonder Tech Test
 
-![](https://img.shields.io/badge/CPT%20Framework-pass-green.svg)[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
+![](https://img.shields.io/badge/CPT%20Framework-pass-green.svg) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 
 Une application web qui affiche une liste de films
 

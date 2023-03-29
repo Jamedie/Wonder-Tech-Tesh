@@ -14,12 +14,15 @@ Dites comment faire pour lancer votre projet
 il suffit de cloner le projet Git :
 
 `git clone https://github.com/Jamedie/Wonder-Tech-Tesh.git`
+
 puis de lancer le site a l'aide d'Eslint.
 
 ## Build With
 
 CPT Framework
+
 Eslint
+
 Prettier
 
 ## License

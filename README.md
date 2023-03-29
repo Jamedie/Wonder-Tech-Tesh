@@ -1,6 +1,6 @@
 # Vonder Tech Test
 
-![](https://img.shields.io/badge/CPT%20Framework-pass-green.svg) (https://app.netlify.com/sites/wonder-viewer/deploys)[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
+![](https://img.shields.io/badge/CPT%20Framework-pass-green.svg)[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
 
 Une application web qui affiche une liste de films
 

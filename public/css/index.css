@@ -1,0 +1,5 @@
+/* Tablet */
+@media (min-width: 768px) {}
+
+/* Desktop */
+@media screen and (min-width: 960px) {}

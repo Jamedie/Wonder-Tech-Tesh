@@ -10,7 +10,7 @@ Au lancement le javascript va fetch la liste des films sur l'api, puis les tris 
 
 ## Start
 
-Dites comment faire pour lancer votre projet
+Pour lancer le projet
 il suffit de cloner le projet Git :
 
 `git clone https://github.com/Jamedie/Wonder-Tech-Tesh.git`

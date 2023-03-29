@@ -12,11 +12,41 @@
     src: url("../fonts/Montserrat-VariableFont_wght.ttf");
 }
 
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
 
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
 
 :root {
     --background-color: #1E1E1E;
     --search-color: #3A3F47;
     --font-color: #ECECEC;
     --font-color-light: #92929D;
+}
+
+.hidden {
+    display: none;
 }

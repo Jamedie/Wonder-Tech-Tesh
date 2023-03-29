@@ -8,6 +8,53 @@
 
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/index.css" />
+
+    <script src="js/app.js"></script>
+    <script src="js/index.js"></script>
   </head>
-  <body></body>
+  <body>
+    <loading-screen class="hidden">
+      <img src="./images/popcorn.webp" alt="logo" />
+    </loading-screen>
+
+    <main>
+      <h2>What do you want to watch?</h2>
+      <form id="searchForm">
+        <input type="button" placeholder="Search" id="searchInput" />
+        <img src="./images/search.png" alt="search" id="searchButton" />
+      </form>
+
+      <recent-result-container id="recent-result">
+        <ul>
+          <li class="card-content">
+            <img
+              src="https://firebasestorage.googleapis.com/v0/b/movie-api-recruitment.appspot.com/o/avengers-endgame.jpg?alt=media"
+              alt="Image Not Found"
+            />
+            <design-number>1</design-number>
+          </li>
+          <li class="card-content">
+            <img
+              src="https://firebasestorage.googleapis.com/v0/b/movie-api-recruitment.appspot.com/o/avengers-endgame.jpg?alt=media"
+              alt="Image Not Found"
+            />
+            <design-number>2</design-number>
+          </li>
+          <li class="card-content">
+            <img
+              src="https://firebasestorage.googleapis.com/v0/b/movie-api-recruitment.appspot.com/o/avengers-endgame.jpg?alt=media"
+              alt="Image Not Found"
+            />
+            <design-number>3</design-number>
+          </li>
+        </ul>
+      </recent-result-container>
+
+      <div class="tabs"></div>
+
+      <result-container>
+        <div id="result"></div>
+      </result-container>
+    </main>
+  </body>
 </html>

@@ -6,11 +6,11 @@ Une application web qui affiche une liste de films
 
 ## Fonctionement
 
-- fetch la liste des films sur l'api donnée
+- Fetch la liste des films sur l'api donnée
 
-- puis les tris par age et slice les 4 premier pour les afficher dans une liste
+- Puis les trier par âge et slice les 4 premiers pour les afficher dans une liste
 
--slice toutes les autres pour les afficher dans une grid css en dessous.
+-Slice toutes les autres pour les afficher dans une grid css en dessous.
 
 ## Start
 
